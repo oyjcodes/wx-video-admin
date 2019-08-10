@@ -75,8 +75,8 @@
 
  
  
- <h2>技术栈</h2>
- <h2>JAVA后端</h2>
+ <h2>🔎技术栈</h2>
+ <h3>JAVA后端</h3>
 
 
 <table>
@@ -136,7 +136,7 @@
 </tbody>
 </table>
 </br>
-<h2>前端</h2>
+<h3>前端</h3>
 <table>
 <thead>
 <tr>
