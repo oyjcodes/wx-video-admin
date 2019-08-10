@@ -6,7 +6,7 @@
 <img src="./img/wx.jpg">
 <blockquote>
 
-简介：基于风口飞起的两只"小猪🐖"——小程序+短视频，我们设计并开发了一款基于微信小程序端的视频社交软件 + 短视频管理的分布式系统；并且采用腾讯云的centos服务器进行分布式的部署。
+简介：基于风口飞起的两只"小猪🐖"——小程序+短视频,该项目是一款基于微信小程序端的视频社交软件,并且采用腾讯云的服务器进行分布式的部署~~~
 
 小视频后台管理系统 —— 主要实现了用户的管理，短视频的管理，背景音乐的管理，权限验证，单点登陆。
 
@@ -24,7 +24,7 @@
 <img src="./video/show.gif">
 
 <h2>💻后台管理系统页面展现</h2>
-<img style="width:50%;height:50%" src="./img/bpage.png">
+<img src="./img/bpage.png">
 
 
 
@@ -108,21 +108,75 @@
 <td>代码生成</td>
 <td><a href="http://www.mybatis.org/generator/index.html" rel="nofollow">http://www.mybatis.org/generator/index.html</a></td>
 </tr>
+
+
+<tr>
+<td>SpringBoot</td>
+<td>快速开发框架</td>
+<td><a href="https://spring.io/projects/spring-boot/" rel="nofollow">https://spring.io/projects/spring-boot/</a></td>
+</tr>
+
 <tr>
 <td>Druid</td>
 <td>数据库连接池</td>
 <td><a href="https://druid.apache.org/" rel="nofollow">https://druid.apache.org/</a></td>
 </tr>
+
+<tr>
+<td>Redis</td>
+<td>缓存数据库</td>
+<td><a href="https://redis.io/" rel="nofollow">https://redis.io/</a></td>
+</tr>
+
+<tr>
+<td>Zookeeper</td>
+<td>分布式应用程序协调服务</td>
+<td><a href="https://zookeeper.apache.org/" rel="nofollow">https://zookeeper.apache.org/</a></td>
+</tr>
+
+<tr>
+<td>FFmpeg</td>
+<td>音视频工具</td>
+<td><a href="http://ffmpeg.org/" rel="nofollow">http://ffmpeg.org/</a></td>
+</tr>
+
+
 <tr>
 <td>PageHelper</td>
 <td>MyBatis分页</td>
 <td><a href="http://git.oschina.net/free/Mybatis_PageHelper" rel="nofollow">http://git.oschina.net/free/Mybatis_PageHelper</a></td>
 </tr>
+
 <tr>
 <td>Maven</td>
 <td>项目构建管理</td>
 <td><a href="http://maven.apache.org/" rel="nofollow">http://maven.apache.org/</a></td>
 </tr>
+
+<tr>
+<td>Swagger</td>
+<td>文档工具</td>
+<td><a href="https://swagger.io/" rel="nofollow">https://swagger.io/</a></td>
+</tr>
+
+<tr>
+<td>应用容器引擎</td>
+<td>Docker</td>
+<td><a href="https://www.docker.com/" rel="nofollow">https://www.docker.com/</a></td>
+</tr>
+
+<tr>
+<td>数据库中间件</td>
+<td>ProxySQL</td>
+<td><a href="https://www.proxysql.com/" rel="nofollow">https://www.proxysql.com/</a></td>
+</tr>
+
+<tr>
+<td>反向代理服务器</td>
+<td>Nginx</td>
+<td><a href="http://nginx.org/" rel="nofollow">http://nginx.org/</a></td>
+</tr>
+
 <tr>
 <td>MySQL</td>
 <td>数据库</td>
