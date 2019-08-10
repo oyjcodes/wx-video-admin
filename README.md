@@ -24,7 +24,7 @@
 <img src="./video/show.gif">
 
 <h2>💻后台管理系统页面展现</h2>
-<img src="./img/bpage.png">
+<img src="./img/back.png">
 
 
 
