@@ -17,7 +17,7 @@
 		<mybatis.spring.version>1.2.2</mybatis.spring.version>
 		<mybatis.paginator.version>1.2.15</mybatis.paginator.version>
 		<!--<mysql.version>5.1.41</mysql.version>-->
-		<mysql.version>8.0.11</mysql.version>
+		<mysql.version>8.0.28</mysql.version>
 		<slf4j.version>1.7.21</slf4j.version>
 		<jackson.version>2.7.4</jackson.version>
 		<!-- 连接池 阿里巴巴数据源 全世界最牛逼的data source 没有之一 -->

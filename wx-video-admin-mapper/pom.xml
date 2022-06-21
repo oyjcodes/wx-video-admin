@@ -10,7 +10,7 @@
 	<artifactId>wx-video-admin-mapper</artifactId>
 	<properties>
 		<!--<mysql.version>5.1.41</mysql.version>-->
-		<mysql.version>8.0.11</mysql.version>
+		<mysql.version>8.0.28</mysql.version>
 	</properties>
 	
 	<dependencies>
